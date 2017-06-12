@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/anim/design_snackbar_out.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/1fc99adc43327e4a8030bcf42b7e2475e90dee08/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/c7c74a6feb761b569b8a01f6d76ce2af5df083a3/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/c7c74a6feb761b569b8a01f6d76ce2af5df083a3/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/1fc99adc43327e4a8030bcf42b7e2475e90dee08/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/c7c74a6feb761b569b8a01f6d76ce2af5df083a3/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/c7c74a6feb761b569b8a01f6d76ce2af5df083a3/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/1fc99adc43327e4a8030bcf42b7e2475e90dee08/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/c7c74a6feb761b569b8a01f6d76ce2af5df083a3/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/anim/design_fab_in.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/1fc99adc43327e4a8030bcf42b7e2475e90dee08/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/anim/slide_out_down.xml",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/anim/slide_out_down.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/c7c74a6feb761b569b8a01f6d76ce2af5df083a3/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/c7c74a6feb761b569b8a01f6d76ce2af5df083a3/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/c7c74a6feb761b569b8a01f6d76ce2af5df083a3/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/anim/slide_in_up.xml",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/anim/slide_in_up.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/anim/slide_out_up.xml",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/anim/slide_out_up.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/anim/design_snackbar_in.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/1fc99adc43327e4a8030bcf42b7e2475e90dee08/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/c7c74a6feb761b569b8a01f6d76ce2af5df083a3/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/anim/slide_in_down.xml",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/anim/slide_in_down.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/c7c74a6feb761b569b8a01f6d76ce2af5df083a3/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/anim/design_fab_out.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/1fc99adc43327e4a8030bcf42b7e2475e90dee08/output/res/anim/design_fab_out.xml"
+    }
+]

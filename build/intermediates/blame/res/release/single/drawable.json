@@ -1,0 +1,494 @@
+[
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/c7c74a6feb761b569b8a01f6d76ce2af5df083a3/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/search_filter_bg.xml",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/drawable/search_filter_bg.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/c7c74a6feb761b569b8a01f6d76ce2af5df083a3/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/ic_electronics.png",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/drawable/ic_electronics.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/card_undo.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/f8b4d627933f7941cd741b8fffb13d442e6085e2/output/res/drawable/card_undo.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/card_kitkat_selector.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/f8b4d627933f7941cd741b8fffb13d442e6085e2/output/res/drawable/card_kitkat_selector.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/mr_ic_media_route_connecting_mono_dark.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/fd54f4708e4058254c4df3185989d7d73ca3993b/output/res/drawable/mr_ic_media_route_connecting_mono_dark.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/card_multichoice_selector.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/f8b4d627933f7941cd741b8fffb13d442e6085e2/output/res/drawable/card_multichoice_selector.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/result_list_bg.xml",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/drawable/result_list_bg.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/btn_bg_fill_selection_tap.xml",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/drawable/btn_bg_fill_selection_tap.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/card_menu_button_expand_material_animator.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/f8b4d627933f7941cd741b8fffb13d442e6085e2/output/res/drawable/card_menu_button_expand_material_animator.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/design_snackbar_background.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/1fc99adc43327e4a8030bcf42b7e2475e90dee08/output/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/c7c74a6feb761b569b8a01f6d76ce2af5df083a3/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/design_fab_background.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/1fc99adc43327e4a8030bcf42b7e2475e90dee08/output/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/btn_bg_fill_selection_white_stroke.xml",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/drawable/btn_bg_fill_selection_white_stroke.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/abc_ratingbar_full_material.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/c7c74a6feb761b569b8a01f6d76ce2af5df083a3/output/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/activated_background_card.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/f8b4d627933f7941cd741b8fffb13d442e6085e2/output/res/drawable/activated_background_card.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/ic_full_star.png",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/drawable/ic_full_star.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/c7c74a6feb761b569b8a01f6d76ce2af5df083a3/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/ic_logo_drawer.png",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/drawable/ic_logo_drawer.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/img_company.jpg",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/drawable/img_company.jpg"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/btn_bg_deep_selection_tap.xml",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/drawable/btn_bg_deep_selection_tap.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/ic_hotel.png",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/drawable/ic_hotel.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/clickable_text_bg.xml",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/drawable/clickable_text_bg.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/card_menu_button_rounded_overflow_selector.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/f8b4d627933f7941cd741b8fffb13d442e6085e2/output/res/drawable/card_menu_button_rounded_overflow_selector.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/ic_hospital.png",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/drawable/ic_hospital.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/card_menu_button_expand_material.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/f8b4d627933f7941cd741b8fffb13d442e6085e2/output/res/drawable/card_menu_button_expand_material.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/card_selector.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/f8b4d627933f7941cd741b8fffb13d442e6085e2/output/res/drawable/card_selector.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/img_education.jpg",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/drawable/img_education.jpg"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/card_menu_button_rounded_overflow.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/f8b4d627933f7941cd741b8fffb13d442e6085e2/output/res/drawable/card_menu_button_rounded_overflow.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/btn_bg_option.xml",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/drawable/btn_bg_option.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/c7c74a6feb761b569b8a01f6d76ce2af5df083a3/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/btn_bg_option_tap.xml",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/drawable/btn_bg_option_tap.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/ic_empty_star.png",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/drawable/ic_empty_star.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/img_bank.jpg",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/drawable/img_bank.jpg"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/search_bar.xml",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/drawable/search_bar.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/6e08d5ca52d3fc54e2a3dea58b6b4685e0a736fe/output/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/common_plus_signin_btn_icon_light.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/6e08d5ca52d3fc54e2a3dea58b6b4685e0a736fe/output/res/drawable/common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/c7c74a6feb761b569b8a01f6d76ce2af5df083a3/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/common_plus_signin_btn_text_dark.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/6e08d5ca52d3fc54e2a3dea58b6b4685e0a736fe/output/res/drawable/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/c7c74a6feb761b569b8a01f6d76ce2af5df083a3/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/activated_foreground_kitkat_card.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/f8b4d627933f7941cd741b8fffb13d442e6085e2/output/res/drawable/activated_foreground_kitkat_card.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/mr_ic_media_route_mono_light.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/fd54f4708e4058254c4df3185989d7d73ca3993b/output/res/drawable/mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/ic_travel.png",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/drawable/ic_travel.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/6e08d5ca52d3fc54e2a3dea58b6b4685e0a736fe/output/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/card_foreground_selector.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/f8b4d627933f7941cd741b8fffb13d442e6085e2/output/res/drawable/card_foreground_selector.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/mr_ic_media_route_mono_dark.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/fd54f4708e4058254c4df3185989d7d73ca3993b/output/res/drawable/mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/card_menu_button_overflow.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/f8b4d627933f7941cd741b8fffb13d442e6085e2/output/res/drawable/card_menu_button_overflow.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/btn_bg_option_idle.xml",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/drawable/btn_bg_option_idle.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/mr_ic_pause_light.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/fd54f4708e4058254c4df3185989d7d73ca3993b/output/res/drawable/mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/btn_bg_transparent.xml",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/drawable/btn_bg_transparent.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/ic_education.png",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/drawable/ic_education.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/c7c74a6feb761b569b8a01f6d76ce2af5df083a3/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/rounded_edit_text_bg.xml",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/drawable/rounded_edit_text_bg.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/pressed_background_card.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/f8b4d627933f7941cd741b8fffb13d442e6085e2/output/res/drawable/pressed_background_card.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/c7c74a6feb761b569b8a01f6d76ce2af5df083a3/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/text_color_1.xml",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/drawable/text_color_1.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/native_card_selector.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/f8b4d627933f7941cd741b8fffb13d442e6085e2/output/res/drawable/native_card_selector.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/topcolored_bg.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/587c1fb313a66fad54a7a75aca1b854082638f15/output/res/drawable/topcolored_bg.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/mr_ic_media_route_connecting_mono_light.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/fd54f4708e4058254c4df3185989d7d73ca3993b/output/res/drawable/mr_ic_media_route_connecting_mono_light.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/c7c74a6feb761b569b8a01f6d76ce2af5df083a3/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/ic_company.png",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/drawable/ic_company.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/common_plus_signin_btn_text_light.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/6e08d5ca52d3fc54e2a3dea58b6b4685e0a736fe/output/res/drawable/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/card_foreground_kitkat_selector.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/f8b4d627933f7941cd741b8fffb13d442e6085e2/output/res/drawable/card_foreground_kitkat_selector.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/c7c74a6feb761b569b8a01f6d76ce2af5df083a3/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/ic_jewelleries.png",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/drawable/ic_jewelleries.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/ic_half_star.png",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/drawable/ic_half_star.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/img_electronics.jpg",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/drawable/img_electronics.jpg"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/abc_edit_text_material.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/c7c74a6feb761b569b8a01f6d76ce2af5df083a3/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/btn_bg_fill_selection_idle_green_stroke.xml",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/drawable/btn_bg_fill_selection_idle_green_stroke.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/pressed_background_kitkat_card.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/f8b4d627933f7941cd741b8fffb13d442e6085e2/output/res/drawable/pressed_background_kitkat_card.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/c7c74a6feb761b569b8a01f6d76ce2af5df083a3/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/mr_ic_play_light.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/fd54f4708e4058254c4df3185989d7d73ca3993b/output/res/drawable/mr_ic_play_light.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/c7c74a6feb761b569b8a01f6d76ce2af5df083a3/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/mr_ic_settings_light.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/fd54f4708e4058254c4df3185989d7d73ca3993b/output/res/drawable/mr_ic_settings_light.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/btn_bg_fill_selection_idle_white_stroke.xml",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/drawable/btn_bg_fill_selection_idle_white_stroke.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/mr_ic_settings_dark.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/fd54f4708e4058254c4df3185989d7d73ca3993b/output/res/drawable/mr_ic_settings_dark.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/abc_dialog_material_background_light.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/c7c74a6feb761b569b8a01f6d76ce2af5df083a3/output/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/mr_ic_cast_dark.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/fd54f4708e4058254c4df3185989d7d73ca3993b/output/res/drawable/mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/img_resturant.jpg",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/drawable/img_resturant.jpg"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/img_jewelleries.jpg",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/drawable/img_jewelleries.jpg"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/radio_button.xml",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/drawable/radio_button.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/card_menu_button_expand.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/f8b4d627933f7941cd741b8fffb13d442e6085e2/output/res/drawable/card_menu_button_expand.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/img_travel.jpg",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/drawable/img_travel.jpg"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/cast_ic_notification_connecting.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/7b0c096a7a58735f9dcffd0d2f05df5d886427c8/output/res/drawable/cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/card_menu_button_overflow_material.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/f8b4d627933f7941cd741b8fffb13d442e6085e2/output/res/drawable/card_menu_button_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/mr_ic_play_dark.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/fd54f4708e4058254c4df3185989d7d73ca3993b/output/res/drawable/mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/card_shadow.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/f8b4d627933f7941cd741b8fffb13d442e6085e2/output/res/drawable/card_shadow.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/mr_ic_cast_light.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/fd54f4708e4058254c4df3185989d7d73ca3993b/output/res/drawable/mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/c7c74a6feb761b569b8a01f6d76ce2af5df083a3/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/ic_bank.png",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/drawable/ic_bank.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/transparent_divider.xml",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/drawable/transparent_divider.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/6e08d5ca52d3fc54e2a3dea58b6b4685e0a736fe/output/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/c7c74a6feb761b569b8a01f6d76ce2af5df083a3/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/rebill_logo.png",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/drawable/rebill_logo.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/gradient_layer_white.xml",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/drawable/gradient_layer_white.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/c7c74a6feb761b569b8a01f6d76ce2af5df083a3/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/card_background.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/f8b4d627933f7941cd741b8fffb13d442e6085e2/output/res/drawable/card_background.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/gradient_layer_black.xml",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/drawable/gradient_layer_black.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/btn_bg_deep_selection.xml",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/drawable/btn_bg_deep_selection.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/common_plus_signin_btn_icon_dark.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/6e08d5ca52d3fc54e2a3dea58b6b4685e0a736fe/output/res/drawable/common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/nav_list_text_bg.xml",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/drawable/nav_list_text_bg.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/c7c74a6feb761b569b8a01f6d76ce2af5df083a3/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/c7c74a6feb761b569b8a01f6d76ce2af5df083a3/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/c7c74a6feb761b569b8a01f6d76ce2af5df083a3/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/img_hotel.jpg",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/drawable/img_hotel.jpg"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/btn_bg_deep_selection_idle.xml",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/drawable/btn_bg_deep_selection_idle.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/ic_automobile.png",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/drawable/ic_automobile.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/6e08d5ca52d3fc54e2a3dea58b6b4685e0a736fe/output/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/nav_inner_list_text_bg.xml",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/drawable/nav_inner_list_text_bg.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/img_banner_placeholder.jpg",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/drawable/img_banner_placeholder.jpg"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/c7c74a6feb761b569b8a01f6d76ce2af5df083a3/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/activated_background_kitkat_card.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/f8b4d627933f7941cd741b8fffb13d442e6085e2/output/res/drawable/activated_background_kitkat_card.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/c7c74a6feb761b569b8a01f6d76ce2af5df083a3/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/btn_bg_fill_selection_green_stroke.xml",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/drawable/btn_bg_fill_selection_green_stroke.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/img_automobile.jpg",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/drawable/img_automobile.jpg"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/clickable_text_bg_2.xml",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/drawable/clickable_text_bg_2.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/mr_ic_pause_dark.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/fd54f4708e4058254c4df3185989d7d73ca3993b/output/res/drawable/mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/activated_foreground_card.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/f8b4d627933f7941cd741b8fffb13d442e6085e2/output/res/drawable/activated_foreground_card.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/list_row_bg.xml",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/drawable/list_row_bg.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/abc_btn_check_material.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/c7c74a6feb761b569b8a01f6d76ce2af5df083a3/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/ic_resturant.png",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/drawable/ic_resturant.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/c7c74a6feb761b569b8a01f6d76ce2af5df083a3/output/res/drawable/abc_dialog_material_background_dark.xml"
+    }
+]

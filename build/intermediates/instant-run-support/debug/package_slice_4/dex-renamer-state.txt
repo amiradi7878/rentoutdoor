@@ -1,0 +1,4 @@
+#Sun May 21 20:21:53 WIB 2017
+base.0=/Users/raditnewdev/RAOD_App_Develop/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4
+renamed.0=classes.dex
+file.0=/Users/raditnewdev/RAOD_App_Develop/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex

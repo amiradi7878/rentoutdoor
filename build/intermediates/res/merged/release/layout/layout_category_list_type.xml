@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card="http://schemas.android.com/tools"
+    android:paddingTop="10dp"
+    android:layout_width="match_parent"
+    android:layout_height="220dp"
+    android:background="#dfdfdf"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    style="@style/card.shadow_image"
+    >
+
+
+    <it.gmariotti.cardslib.library.view.CardViewNative
+        android:id="@+id/carddemo_largeimage_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:paddingRight="@dimen/value_12dp"
+        android:paddingLeft="@dimen/value_12dp">
+
+        <ImageView
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/catBannerImageView"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="centerCrop"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:baselineAligned="true"
+            android:background="@drawable/gradient_layer_black"
+            android:orientation="horizontal"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true">
+
+            <TextView
+                android:id="@+id/catNameTV"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/value_10dp"
+                android:text="Automobile"
+                android:textSize="@dimen/value_20sp"
+                android:layout_gravity="center_vertical"
+                android:textColor="@android:color/black"
+                android:ellipsize="end"
+                android:maxLines="1" />
+
+        </LinearLayout>
+
+    </it.gmariotti.cardslib.library.view.CardViewNative>
+</RelativeLayout>

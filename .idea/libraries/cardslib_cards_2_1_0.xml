@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="cardslib-cards-2.1.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/587c1fb313a66fad54a7a75aca1b854082638f15/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/587c1fb313a66fad54a7a75aca1b854082638f15/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.gabrielemariotti.cards/cardslib-cards/2.1.0/f53e78746026784f0f61810d7fc515e162234539/cardslib-cards-2.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

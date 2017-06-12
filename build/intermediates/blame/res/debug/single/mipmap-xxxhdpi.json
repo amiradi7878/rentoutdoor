@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_placeholder3.png",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/mipmap-xxxhdpi/ic_placeholder3.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher2.png",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/mipmap-xxxhdpi/ic_launcher2.png"
+    }
+]

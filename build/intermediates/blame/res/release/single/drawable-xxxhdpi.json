@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable-xxxhdpi/ic_expand_more_grey600_24dp.png",
+        "source": "/Users/raditnewdev/.android/build-cache/f8b4d627933f7941cd741b8fffb13d442e6085e2/output/res/drawable-xxxhdpi/ic_expand_more_grey600_24dp.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable-xxxhdpi/ic_more_vert_grey600_24dp.png",
+        "source": "/Users/raditnewdev/.android/build-cache/f8b4d627933f7941cd741b8fffb13d442e6085e2/output/res/drawable-xxxhdpi/ic_more_vert_grey600_24dp.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable-xxxhdpi/ic_chevron_right_grey600_24dp.png",
+        "source": "/Users/raditnewdev/.android/build-cache/f8b4d627933f7941cd741b8fffb13d442e6085e2/output/res/drawable-xxxhdpi/ic_chevron_right_grey600_24dp.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable-xxxhdpi/ic_expand_less_grey600_24dp.png",
+        "source": "/Users/raditnewdev/.android/build-cache/f8b4d627933f7941cd741b8fffb13d442e6085e2/output/res/drawable-xxxhdpi/ic_expand_less_grey600_24dp.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable-xxxhdpi/ic_placeholder2.png",
+        "source": "/Users/raditnewdev/RAOD_App_Develop/src/main/res/drawable-xxxhdpi/ic_placeholder2.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable-xxxhdpi/ic_more_vert_black_24dp.png",
+        "source": "/Users/raditnewdev/.android/build-cache/f8b4d627933f7941cd741b8fffb13d442e6085e2/output/res/drawable-xxxhdpi/ic_more_vert_black_24dp.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable-xxxhdpi/ic_expand_more_black_24dp.png",
+        "source": "/Users/raditnewdev/.android/build-cache/f8b4d627933f7941cd741b8fffb13d442e6085e2/output/res/drawable-xxxhdpi/ic_expand_more_black_24dp.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable-xxxhdpi/powered_by_google_dark.png",
+        "source": "/Users/raditnewdev/.android/build-cache/57e8f526755f5d265b031b814ddfee2282f77197/output/res/drawable-xxxhdpi/powered_by_google_dark.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable-xxxhdpi/places_ic_search.png",
+        "source": "/Users/raditnewdev/.android/build-cache/57e8f526755f5d265b031b814ddfee2282f77197/output/res/drawable-xxxhdpi/places_ic_search.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable-xxxhdpi/powered_by_google_light.png",
+        "source": "/Users/raditnewdev/.android/build-cache/57e8f526755f5d265b031b814ddfee2282f77197/output/res/drawable-xxxhdpi/powered_by_google_light.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable-xxxhdpi/ic_expand_less_black_24dp.png",
+        "source": "/Users/raditnewdev/.android/build-cache/f8b4d627933f7941cd741b8fffb13d442e6085e2/output/res/drawable-xxxhdpi/ic_expand_less_black_24dp.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable-xxxhdpi/places_ic_clear.png",
+        "source": "/Users/raditnewdev/.android/build-cache/57e8f526755f5d265b031b814ddfee2282f77197/output/res/drawable-xxxhdpi/places_ic_clear.png"
+    }
+]

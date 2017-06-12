@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable-v21/card_menu_button_expand.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/f8b4d627933f7941cd741b8fffb13d442e6085e2/output/res/drawable-v21/card_menu_button_expand.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable-v21/card_menu_button_expand_material.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/f8b4d627933f7941cd741b8fffb13d442e6085e2/output/res/drawable-v21/card_menu_button_expand_material.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/c7c74a6feb761b569b8a01f6d76ce2af5df083a3/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/c7c74a6feb761b569b8a01f6d76ce2af5df083a3/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable-v21/card_kitkat_selector.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/f8b4d627933f7941cd741b8fffb13d442e6085e2/output/res/drawable-v21/card_kitkat_selector.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable-v21/card_menu_button_expand_material_animator.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/f8b4d627933f7941cd741b8fffb13d442e6085e2/output/res/drawable-v21/card_menu_button_expand_material_animator.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable-v21/card_menu_button_overflow_material.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/f8b4d627933f7941cd741b8fffb13d442e6085e2/output/res/drawable-v21/card_menu_button_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable-v21/card_foreground_selector.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/f8b4d627933f7941cd741b8fffb13d442e6085e2/output/res/drawable-v21/card_foreground_selector.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/c7c74a6feb761b569b8a01f6d76ce2af5df083a3/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable-v21/card_selector.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/f8b4d627933f7941cd741b8fffb13d442e6085e2/output/res/drawable-v21/card_selector.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/release/drawable-v21/card_foreground_kitkat_selector.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/f8b4d627933f7941cd741b8fffb13d442e6085e2/output/res/drawable-v21/card_foreground_kitkat_selector.xml"
+    }
+]

@@ -1,0 +1,7 @@
+#Sun May 21 20:21:54 WIB 2017
+base.0=/Users/raditnewdev/RAOD_App_Develop/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a28790553e754635bf8636ab8177a6ae3fec175e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/raditnewdev/RAOD_App_Develop/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7b68a9a318a2f4a9a9f93b2d82a0d43939377321/classes.dex
+base.1=/Users/raditnewdev/RAOD_App_Develop/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7b68a9a318a2f4a9a9f93b2d82a0d43939377321
+file.0=/Users/raditnewdev/RAOD_App_Develop/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a28790553e754635bf8636ab8177a6ae3fec175e/classes.dex

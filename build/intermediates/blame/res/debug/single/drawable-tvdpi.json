@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/debug/drawable-tvdpi/common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "/Users/raditnewdev/.android/build-cache/2e8b95dd6e6437023a98844786f10342df5c0bda/output/res/drawable-tvdpi/common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/debug/drawable-tvdpi/common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "/Users/raditnewdev/.android/build-cache/2e8b95dd6e6437023a98844786f10342df5c0bda/output/res/drawable-tvdpi/common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/debug/drawable-tvdpi/ic_plusone_small_off_client.png",
+        "source": "/Users/raditnewdev/.android/build-cache/6a9e8879f107cd4f289a8a6ff6d169e873cd91e8/output/res/drawable-tvdpi/ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/debug/drawable-tvdpi/common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "/Users/raditnewdev/.android/build-cache/2e8b95dd6e6437023a98844786f10342df5c0bda/output/res/drawable-tvdpi/common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/debug/drawable-tvdpi/common_google_signin_btn_icon_light_focused.9.png",
+        "source": "/Users/raditnewdev/.android/build-cache/2e8b95dd6e6437023a98844786f10342df5c0bda/output/res/drawable-tvdpi/common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/debug/drawable-tvdpi/ic_plusone_tall_off_client.png",
+        "source": "/Users/raditnewdev/.android/build-cache/6a9e8879f107cd4f289a8a6ff6d169e873cd91e8/output/res/drawable-tvdpi/ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/debug/drawable-tvdpi/common_plus_signin_btn_text_light_focused.9.png",
+        "source": "/Users/raditnewdev/.android/build-cache/2e8b95dd6e6437023a98844786f10342df5c0bda/output/res/drawable-tvdpi/common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/debug/drawable-tvdpi/common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "/Users/raditnewdev/.android/build-cache/2e8b95dd6e6437023a98844786f10342df5c0bda/output/res/drawable-tvdpi/common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/debug/drawable-tvdpi/common_google_signin_btn_text_light_pressed.9.png",
+        "source": "/Users/raditnewdev/.android/build-cache/2e8b95dd6e6437023a98844786f10342df5c0bda/output/res/drawable-tvdpi/common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/debug/drawable-tvdpi/common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "/Users/raditnewdev/.android/build-cache/2e8b95dd6e6437023a98844786f10342df5c0bda/output/res/drawable-tvdpi/common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/debug/drawable-tvdpi/common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "/Users/raditnewdev/.android/build-cache/2e8b95dd6e6437023a98844786f10342df5c0bda/output/res/drawable-tvdpi/common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/debug/drawable-tvdpi/common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "/Users/raditnewdev/.android/build-cache/2e8b95dd6e6437023a98844786f10342df5c0bda/output/res/drawable-tvdpi/common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/debug/drawable-tvdpi/common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "/Users/raditnewdev/.android/build-cache/2e8b95dd6e6437023a98844786f10342df5c0bda/output/res/drawable-tvdpi/common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/debug/drawable-tvdpi/common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "/Users/raditnewdev/.android/build-cache/2e8b95dd6e6437023a98844786f10342df5c0bda/output/res/drawable-tvdpi/common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/debug/drawable-tvdpi/common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "/Users/raditnewdev/.android/build-cache/2e8b95dd6e6437023a98844786f10342df5c0bda/output/res/drawable-tvdpi/common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/debug/drawable-tvdpi/common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "/Users/raditnewdev/.android/build-cache/2e8b95dd6e6437023a98844786f10342df5c0bda/output/res/drawable-tvdpi/common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/debug/drawable-tvdpi/common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "/Users/raditnewdev/.android/build-cache/2e8b95dd6e6437023a98844786f10342df5c0bda/output/res/drawable-tvdpi/common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/debug/drawable-tvdpi/common_google_signin_btn_icon_light_normal.9.png",
+        "source": "/Users/raditnewdev/.android/build-cache/2e8b95dd6e6437023a98844786f10342df5c0bda/output/res/drawable-tvdpi/common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/debug/drawable-tvdpi/common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "/Users/raditnewdev/.android/build-cache/2e8b95dd6e6437023a98844786f10342df5c0bda/output/res/drawable-tvdpi/common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/debug/drawable-tvdpi/common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "/Users/raditnewdev/.android/build-cache/2e8b95dd6e6437023a98844786f10342df5c0bda/output/res/drawable-tvdpi/common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/debug/drawable-tvdpi/common_full_open_on_phone.png",
+        "source": "/Users/raditnewdev/.android/build-cache/2e8b95dd6e6437023a98844786f10342df5c0bda/output/res/drawable-tvdpi/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/debug/drawable-tvdpi/common_google_signin_btn_text_dark_normal.9.png",
+        "source": "/Users/raditnewdev/.android/build-cache/2e8b95dd6e6437023a98844786f10342df5c0bda/output/res/drawable-tvdpi/common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/debug/drawable-tvdpi/common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "/Users/raditnewdev/.android/build-cache/2e8b95dd6e6437023a98844786f10342df5c0bda/output/res/drawable-tvdpi/common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/debug/drawable-tvdpi/common_google_signin_btn_text_light_normal.9.png",
+        "source": "/Users/raditnewdev/.android/build-cache/2e8b95dd6e6437023a98844786f10342df5c0bda/output/res/drawable-tvdpi/common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/debug/drawable-tvdpi/common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "/Users/raditnewdev/.android/build-cache/2e8b95dd6e6437023a98844786f10342df5c0bda/output/res/drawable-tvdpi/common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/debug/drawable-tvdpi/common_google_signin_btn_text_light_focused.9.png",
+        "source": "/Users/raditnewdev/.android/build-cache/2e8b95dd6e6437023a98844786f10342df5c0bda/output/res/drawable-tvdpi/common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/debug/drawable-tvdpi/common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "/Users/raditnewdev/.android/build-cache/2e8b95dd6e6437023a98844786f10342df5c0bda/output/res/drawable-tvdpi/common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/debug/drawable-tvdpi/common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "/Users/raditnewdev/.android/build-cache/2e8b95dd6e6437023a98844786f10342df5c0bda/output/res/drawable-tvdpi/common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/debug/drawable-tvdpi/common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "/Users/raditnewdev/.android/build-cache/2e8b95dd6e6437023a98844786f10342df5c0bda/output/res/drawable-tvdpi/common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/debug/drawable-tvdpi/common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "/Users/raditnewdev/.android/build-cache/2e8b95dd6e6437023a98844786f10342df5c0bda/output/res/drawable-tvdpi/common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/debug/drawable-tvdpi/ic_plusone_standard_off_client.png",
+        "source": "/Users/raditnewdev/.android/build-cache/6a9e8879f107cd4f289a8a6ff6d169e873cd91e8/output/res/drawable-tvdpi/ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/debug/drawable-tvdpi/common_plus_signin_btn_text_light_normal.9.png",
+        "source": "/Users/raditnewdev/.android/build-cache/2e8b95dd6e6437023a98844786f10342df5c0bda/output/res/drawable-tvdpi/common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/debug/drawable-tvdpi/common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "/Users/raditnewdev/.android/build-cache/2e8b95dd6e6437023a98844786f10342df5c0bda/output/res/drawable-tvdpi/common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/debug/drawable-tvdpi/ic_plusone_medium_off_client.png",
+        "source": "/Users/raditnewdev/.android/build-cache/6a9e8879f107cd4f289a8a6ff6d169e873cd91e8/output/res/drawable-tvdpi/ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/debug/drawable-tvdpi/common_google_signin_btn_text_light_disabled.9.png",
+        "source": "/Users/raditnewdev/.android/build-cache/2e8b95dd6e6437023a98844786f10342df5c0bda/output/res/drawable-tvdpi/common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/debug/drawable-tvdpi/common_google_signin_btn_text_dark_focused.9.png",
+        "source": "/Users/raditnewdev/.android/build-cache/2e8b95dd6e6437023a98844786f10342df5c0bda/output/res/drawable-tvdpi/common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/debug/drawable-tvdpi/common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "/Users/raditnewdev/.android/build-cache/2e8b95dd6e6437023a98844786f10342df5c0bda/output/res/drawable-tvdpi/common_google_signin_btn_text_dark_pressed.9.png"
+    }
+]

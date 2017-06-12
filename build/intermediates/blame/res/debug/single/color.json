@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/6f1bdcc7bd206971ac1c8ec8bfc40ec879442dde/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/6f1bdcc7bd206971ac1c8ec8bfc40ec879442dde/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_dark.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/2e8b95dd6e6437023a98844786f10342df5c0bda/output/res/color/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/6f1bdcc7bd206971ac1c8ec8bfc40ec879442dde/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_light.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/2e8b95dd6e6437023a98844786f10342df5c0bda/output/res/color/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/2e8b95dd6e6437023a98844786f10342df5c0bda/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/2e8b95dd6e6437023a98844786f10342df5c0bda/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/6f1bdcc7bd206971ac1c8ec8bfc40ec879442dde/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/6f1bdcc7bd206971ac1c8ec8bfc40ec879442dde/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/6f1bdcc7bd206971ac1c8ec8bfc40ec879442dde/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/6f1bdcc7bd206971ac1c8ec8bfc40ec879442dde/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/6f1bdcc7bd206971ac1c8ec8bfc40ec879442dde/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/debug/color/wallet_primary_text_holo_light.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/8502db4a7980c87574bc175904a9da44231fa226/output/res/color/wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/debug/color/wallet_secondary_text_holo_dark.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/8502db4a7980c87574bc175904a9da44231fa226/output/res/color/wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/raditnewdev/RAOD_App_Develop/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/raditnewdev/.android/build-cache/6f1bdcc7bd206971ac1c8ec8bfc40ec879442dde/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    }
+]
